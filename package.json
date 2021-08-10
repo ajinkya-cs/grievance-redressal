@@ -1,0 +1,19 @@
+{
+  "name": "grs",
+  "version": "1.0.0",
+  "description": "Grievance Redressal System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajinkya-cs/grievance-redressal.git"
+  },
+  "author": "aj,am",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajinkya-cs/grievance-redressal/issues"
+  },
+  "homepage": "https://github.com/ajinkya-cs/grievance-redressal#readme"
+}
