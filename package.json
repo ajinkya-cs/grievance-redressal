@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ajinkya-cs/grievance-redressal/issues"
   },
-  "homepage": "https://github.com/ajinkya-cs/grievance-redressal#readme"
+  "homepage": "https://github.com/ajinkya-cs/grievance-redressal#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
