@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ajinkya-cs/grievance-redressal#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-openid-connect": "^2.5.0"
   }
 }
